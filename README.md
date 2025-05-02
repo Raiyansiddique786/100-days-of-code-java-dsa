@@ -68,10 +68,6 @@ To build strong fundamentals in Java and master Data Structures and Algorithms u
 
 ---
 
-## 🔗 Connect with Me:
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub URL]  
-- **Twitter (optional):** [@yourhandle]
 
 ---
 
